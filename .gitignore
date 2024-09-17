@@ -1,0 +1,18 @@
+# Ignorar arquivos e diretórios do Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignorar arquivos temporários
+*.log
+*.tmp
+
+# Ignorar diretórios de dependências
+node_modules/
+vendor/
+
+# Ignorar arquivos específicos
+secret-config.json
+ 
